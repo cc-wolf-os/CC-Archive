@@ -1,5 +1,5 @@
 -- Archive library for CC
-local LibDeflate = require "LibDeflate"
+local LibDeflate = require "/wolfos.libs.LibDeflate"
 
 local compression_level = nil -- compression level (nil for default)
 
